@@ -18,9 +18,7 @@
 
 <p align="center">
   <!-- GIF DEMO - 动态图演示 -->
-  <img src="([https://github.com/user-attachments/assets/aedf009f-a3c0-484a-ab4b-e38c00b23a50](https://github.com/user-attachments/assets/aedf009f-a3c0-484a-ab4b-e38c00b23a50))" alt="Bot Demo GIF" width="800">
-  <br>
-  <br>
+  <img src="https://github.com/user-attachments/assets/aedf009f-a3c0-484a-ab4b-e38c00b23a50" alt="Bot Demo GIF" width="800">
 </p>
 
 <div align="center">
@@ -158,8 +156,7 @@ This project is for educational purposes. Cryptocurrency trading involves signif
 ## 使用方法
 运行 `python okx_bot.py` 启动图形界面。整个工作流非常直观：扫描 -> 审查 -> 启动。
 ## ⚠️ 重要声明
-本项目仅为技术研究目的，数字货币交易风险极高。作者对使用此软件造成的任何资金损失概不负责。请务务必自行承担风险。
+本项目仅为技术研究目的，数字货币交易风险极高。作者对使用此软件造成的任何资金损失概不负责。请您务必自行承担风险。
 
 </details>
 </div>
-
