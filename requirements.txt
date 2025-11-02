@@ -1,0 +1,6 @@
+customtkinter
+requests
+numpy
+pandas
+matplotlib
+python-dotenv
