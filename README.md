@@ -20,7 +20,10 @@
   <!-- GIF DEMO - 动态图演示 -->
   <img src="https://github.com/user-attachments/assets/aedf009f-a3c0-484a-ab4b-e38c00b23a50" alt="Bot Demo GIF" width="800">
 </p>
-
+<p align="center">
+  <!-- Backtesting DEMO - 回测曲线演示 -->
+  <img src="https://github.com/user-attachments/assets/a725776e-479c-41fd-9e87-1561c51ddc9f" alt="Backtesting DEMO" width="800">
+</p>
 <div align="center">
 
 **Languages:**
